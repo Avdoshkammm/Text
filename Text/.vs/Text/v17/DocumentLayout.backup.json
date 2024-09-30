@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\AvdoshkaMMM\\source\\repos\\TextProject\\Text\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A7AA710D-EB54-4642-85A4-03359B4A581B}|Text.csproj|c:\\users\\avdoshkammm\\source\\repos\\textproject\\text\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7AA710D-EB54-4642-85A4-03359B4A581B}|Text.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AA710D-EB54-4642-85A4-03359B4A581B}|Text.csproj|c:\\users\\avdoshkammm\\source\\repos\\textproject\\text\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7AA710D-EB54-4642-85A4-03359B4A581B}|Text.csproj|solutionrelative:views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6CFB3828-829C-4BCE-8C79-147A523A127D}|..\\Text.Infrastructure\\Text.Infrastructure.csproj|c:\\users\\avdoshkammm\\source\\repos\\textproject\\text.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -16,24 +24,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 436,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\TextProject\\Text\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\TextProject\\Text\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T17:43:36.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\TextProject\\Text\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\TextProject\\Text\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:43:24.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\TextProject\\Text.Infrastructure\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "..\\Text.Infrastructure\\Repositories\\ProductRepository.cs",
               "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\TextProject\\Text.Infrastructure\\Repositories\\ProductRepository.cs",
               "RelativeToolTip": "..\\Text.Infrastructure\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T17:25:30.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\TextProject\\Text.Application\\Interfaces\\IProductRepository.cs",
               "RelativeDocumentMoniker": "..\\Text.Application\\Interfaces\\IProductRepository.cs",
