@@ -1,11 +1,67 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "Text.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Text.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Text.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Text.Application.dll": {}
+        }
+      },
+      "Text.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Text.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Text.Domain.dll": {}
+        }
+      },
+      "Text.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Text.Application": "1.0.0",
+          "Text.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Text.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Text.Infrastructure.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Text.Application/1.0.0": {
+      "type": "project",
+      "path": "../Text.Application/Text.Application.csproj",
+      "msbuildProject": "../Text.Application/Text.Application.csproj"
+    },
+    "Text.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Text.Domain/Text.Domain.csproj",
+      "msbuildProject": "../Text.Domain/Text.Domain.csproj"
+    },
+    "Text.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Text.Infrastructure/Text.Infrastructure.csproj",
+      "msbuildProject": "../Text.Infrastructure/Text.Infrastructure.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "Text.Infrastructure >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\AvdoshkaMMM\\.nuget\\packages\\": {}
@@ -34,7 +90,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\AvdoshkaMMM\\source\\repos\\TextProject\\Text.Infrastructure\\Text.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\AvdoshkaMMM\\source\\repos\\TextProject\\Text.Infrastructure\\Text.Infrastructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
