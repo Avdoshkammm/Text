@@ -1,0 +1,16 @@
+C:\Users\AvdoshkaMMM\source\repos\TextProject\Text.Application\bin\Debug\net8.0\Text.Application.deps.json
+C:\Users\AvdoshkaMMM\source\repos\TextProject\Text.Application\bin\Debug\net8.0\Text.Application.dll
+C:\Users\AvdoshkaMMM\source\repos\TextProject\Text.Application\bin\Debug\net8.0\Text.Application.pdb
+C:\Users\AvdoshkaMMM\source\repos\TextProject\Text.Application\bin\Debug\net8.0\Text.Domain.dll
+C:\Users\AvdoshkaMMM\source\repos\TextProject\Text.Application\bin\Debug\net8.0\Text.Domain.pdb
+C:\Users\AvdoshkaMMM\source\repos\TextProject\Text.Application\obj\Debug\net8.0\Text.Application.csproj.AssemblyReference.cache
+C:\Users\AvdoshkaMMM\source\repos\TextProject\Text.Application\obj\Debug\net8.0\Text.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AvdoshkaMMM\source\repos\TextProject\Text.Application\obj\Debug\net8.0\Text.Application.AssemblyInfoInputs.cache
+C:\Users\AvdoshkaMMM\source\repos\TextProject\Text.Application\obj\Debug\net8.0\Text.Application.AssemblyInfo.cs
+C:\Users\AvdoshkaMMM\source\repos\TextProject\Text.Application\obj\Debug\net8.0\Text.Application.csproj.CoreCompileInputs.cache
+C:\Users\AvdoshkaMMM\source\repos\TextProject\Text.Application\obj\Debug\net8.0\Text.Application.sourcelink.json
+C:\Users\AvdoshkaMMM\source\repos\TextProject\Text.Application\obj\Debug\net8.0\Text.App.CD36C541.Up2Date
+C:\Users\AvdoshkaMMM\source\repos\TextProject\Text.Application\obj\Debug\net8.0\Text.Application.dll
+C:\Users\AvdoshkaMMM\source\repos\TextProject\Text.Application\obj\Debug\net8.0\refint\Text.Application.dll
+C:\Users\AvdoshkaMMM\source\repos\TextProject\Text.Application\obj\Debug\net8.0\Text.Application.pdb
+C:\Users\AvdoshkaMMM\source\repos\TextProject\Text.Application\obj\Debug\net8.0\ref\Text.Application.dll

@@ -1,0 +1,12 @@
+C:\Users\AvdoshkaMMM\source\repos\TextProject\Text.Domain\bin\Debug\net8.0\Text.Domain.deps.json
+C:\Users\AvdoshkaMMM\source\repos\TextProject\Text.Domain\bin\Debug\net8.0\Text.Domain.dll
+C:\Users\AvdoshkaMMM\source\repos\TextProject\Text.Domain\bin\Debug\net8.0\Text.Domain.pdb
+C:\Users\AvdoshkaMMM\source\repos\TextProject\Text.Domain\obj\Debug\net8.0\Text.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AvdoshkaMMM\source\repos\TextProject\Text.Domain\obj\Debug\net8.0\Text.Domain.AssemblyInfoInputs.cache
+C:\Users\AvdoshkaMMM\source\repos\TextProject\Text.Domain\obj\Debug\net8.0\Text.Domain.AssemblyInfo.cs
+C:\Users\AvdoshkaMMM\source\repos\TextProject\Text.Domain\obj\Debug\net8.0\Text.Domain.csproj.CoreCompileInputs.cache
+C:\Users\AvdoshkaMMM\source\repos\TextProject\Text.Domain\obj\Debug\net8.0\Text.Domain.sourcelink.json
+C:\Users\AvdoshkaMMM\source\repos\TextProject\Text.Domain\obj\Debug\net8.0\Text.Domain.dll
+C:\Users\AvdoshkaMMM\source\repos\TextProject\Text.Domain\obj\Debug\net8.0\refint\Text.Domain.dll
+C:\Users\AvdoshkaMMM\source\repos\TextProject\Text.Domain\obj\Debug\net8.0\Text.Domain.pdb
+C:\Users\AvdoshkaMMM\source\repos\TextProject\Text.Domain\obj\Debug\net8.0\ref\Text.Domain.dll
