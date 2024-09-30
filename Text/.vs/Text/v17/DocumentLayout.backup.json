@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\AvdoshkaMMM\\source\\repos\\TextProject\\Text\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6CFB3828-829C-4BCE-8C79-147A523A127D}|..\\Text.Infrastructure\\Text.Infrastructure.csproj|c:\\users\\avdoshkammm\\source\\repos\\textproject\\text.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AA5F392E-BFAF-46D9-B6C5-0E889E7F887A}|..\\Text.Application\\Text.Application.csproj|c:\\users\\avdoshkammm\\source\\repos\\textproject\\text.application\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,6 +21,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\TextProject\\Text.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\Text.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\TextProject\\Text.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "..\\Text.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:25:30.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\TextProject\\Text.Application\\Interfaces\\IProductRepository.cs",
               "RelativeDocumentMoniker": "..\\Text.Application\\Interfaces\\IProductRepository.cs",
