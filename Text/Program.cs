@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
+using Text.Application.Interfaces;
 using Text.Infrastructure.Data;
+using Text.Infrastructure.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,6 +11,8 @@ builder.Services.AddDbContext<TestDBContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("Connect"));
 });
+builder.Services.AddScoped<IProductRepository, ProductRepository>();
+
 
 var app = builder.Build();
 

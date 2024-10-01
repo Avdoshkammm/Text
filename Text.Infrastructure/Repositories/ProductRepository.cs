@@ -1,9 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Text.Application.Interfaces;
 using Text.Domain.Entities;
 using Text.Infrastructure.Data;
@@ -23,12 +18,23 @@ namespace Text.Infrastructure.Repositories
         }
         public async Task<Product> GetProductByIdAsync(int id)
         {
-            return await _db.Products.FindAsync(id);
+            if(id == null)
+            {
+                return null;
+            }
+            var product = await _db.Products.FirstOrDefaultAsync(n => n.ID == id);
+            if(product == null)
+            {
+                return null;
+            }
+            return product;
+            //return await _db.Products.FindAsync(id);
         }
-        public async Task AddProductAsync(Product product)
+        public async Task<Product> AddProductAsync(Product product)
         {
-            await _db.Products.AddAsync(product);
+            await _db.AddAsync(product);
             await _db.SaveChangesAsync();
+            return product;
         }
         public async Task UpdateProductAsync(Product product)
         {
@@ -41,8 +47,8 @@ namespace Text.Infrastructure.Repositories
             if (delProd != null)
             {
                 _db.Products.Remove(delProd);
-                await _db.SaveChangesAsync();
             }
+            await _db.SaveChangesAsync();
         }
     }
 }

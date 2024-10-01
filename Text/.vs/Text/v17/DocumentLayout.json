@@ -7,14 +7,22 @@
       "RelativeMoniker": "D:0:0:{A7AA710D-EB54-4642-85A4-03359B4A581B}|Text.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7AA710D-EB54-4642-85A4-03359B4A581B}|Text.csproj|c:\\users\\avdoshkammm\\source\\repos\\textproject\\text\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7AA710D-EB54-4642-85A4-03359B4A581B}|Text.csproj|solutionrelative:views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6CFB3828-829C-4BCE-8C79-147A523A127D}|..\\Text.Infrastructure\\Text.Infrastructure.csproj|c:\\users\\avdoshkammm\\source\\repos\\textproject\\text.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA5F392E-BFAF-46D9-B6C5-0E889E7F887A}|..\\Text.Application\\Text.Application.csproj|c:\\users\\avdoshkammm\\source\\repos\\textproject\\text.application\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AA710D-EB54-4642-85A4-03359B4A581B}|Text.csproj|c:\\users\\avdoshkammm\\source\\repos\\textproject\\text\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7AA710D-EB54-4642-85A4-03359B4A581B}|Text.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AA710D-EB54-4642-85A4-03359B4A581B}|Text.csproj|c:\\users\\avdoshkammm\\source\\repos\\textproject\\text\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7AA710D-EB54-4642-85A4-03359B4A581B}|Text.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AA710D-EB54-4642-85A4-03359B4A581B}|Text.csproj|c:\\users\\avdoshkammm\\source\\repos\\textproject\\text\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7AA710D-EB54-4642-85A4-03359B4A581B}|Text.csproj|solutionrelative:views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,11 +32,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 436,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\TextProject\\Text.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\Text.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\TextProject\\Text.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "..\\Text.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T18:00:09.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\TextProject\\Text\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\TextProject\\Text\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T17:56:51.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\TextProject\\Text\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\TextProject\\Text\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:54:53.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\TextProject\\Text\\Views\\Products\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Products\\Create.cshtml",
@@ -36,9 +81,14 @@
               "RelativeToolTip": "Views\\Products\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-30T17:43:36.028Z",
-              "EditorCaption": ""
-            },
+              "WhenOpened": "2024-09-30T17:43:36.028Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 436,
+          "SelectedChildIndex": 0,
+          "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -47,7 +97,7 @@
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\TextProject\\Text\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAwGgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T17:43:24.479Z",
               "EditorCaption": ""
@@ -55,25 +105,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\TextProject\\Text.Infrastructure\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "..\\Text.Infrastructure\\Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\TextProject\\Text.Infrastructure\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "..\\Text.Infrastructure\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T17:25:30.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\TextProject\\Text.Application\\Interfaces\\IProductRepository.cs",
               "RelativeDocumentMoniker": "..\\Text.Application\\Interfaces\\IProductRepository.cs",
               "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\TextProject\\Text.Application\\Interfaces\\IProductRepository.cs",
               "RelativeToolTip": "..\\Text.Application\\Interfaces\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T17:19:35.489Z",
               "EditorCaption": ""
